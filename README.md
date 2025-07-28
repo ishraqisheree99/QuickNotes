@@ -1,4 +1,4 @@
-#"QuickNotes – Simple & Powerful"
+# QuickNotes – Simple & Powerful
 
 Your go-to notes app for jotting down ideas, tasks, and lists instantly. Clean, fast, and intuitive—built with Android Studio & Java. Never forget a thought again! ✏️✔️
 
